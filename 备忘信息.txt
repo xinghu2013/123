@@ -1,4 +1,0 @@
-https://github.com/
-
-username:test
-password:test1234
